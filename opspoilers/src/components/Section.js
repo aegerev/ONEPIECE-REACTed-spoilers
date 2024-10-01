@@ -32,3 +32,5 @@ function Section() {
         </section>
       )
 }
+
+export default Section;
