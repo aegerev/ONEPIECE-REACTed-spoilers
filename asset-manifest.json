@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ONEPIECE-REACTed-spoilers/static/css/main.d15fec0e.css",
+    "main.js": "/ONEPIECE-REACTed-spoilers/static/js/main.2fae78bf.js",
+    "static/js/453.02c68dde.chunk.js": "/ONEPIECE-REACTed-spoilers/static/js/453.02c68dde.chunk.js",
+    "index.html": "/ONEPIECE-REACTed-spoilers/index.html",
+    "main.d15fec0e.css.map": "/ONEPIECE-REACTed-spoilers/static/css/main.d15fec0e.css.map",
+    "main.2fae78bf.js.map": "/ONEPIECE-REACTed-spoilers/static/js/main.2fae78bf.js.map",
+    "453.02c68dde.chunk.js.map": "/ONEPIECE-REACTed-spoilers/static/js/453.02c68dde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d15fec0e.css",
+    "static/js/main.2fae78bf.js"
+  ]
+}
